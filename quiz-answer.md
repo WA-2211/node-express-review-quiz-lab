@@ -15,7 +15,7 @@ A: GET, POST
 
 
 6. In your words describe to me what the server is and what the client is
-A: A server sends response to the client , A client is who requests data/services
+A: A server sends response to the client , A client is who requests the service/data
 
 7. What is the difference between error messages that start with 400 vs ones with 500?
 A: 400 client side error, 500 server side error
